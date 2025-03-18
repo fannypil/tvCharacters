@@ -34,15 +34,19 @@ Users can search for characters by name or description.
 
 ## 📸 Screenshots
 ### Main Screen
-![Main Screen](screenshots/main_screen.png)
+<img src="screenshots/main_screen.png" alt="Example Image" style="width: 200px;"> <img src="screenshots/main_screen2.png" alt="Example Image" style="width: 200px;">
 
 ### Character Details
-![Character Details](screenshots/character_details.png)
+<img src="screenshots/character_details.png" alt="Example Image" style="width: 200px;">
 
 ### Search Functionality
-![Search Functionality](screenshots/search_functionality.png)
+<img src="screenshots/search_functionality.png" alt="Example Image" style="width: 200px;">
 
 ### Video Demo
-![Video Demo](screenshots/demo_video.mp4)
+<video width="200px" controls>
+  <source src="screenshots/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Acknowledgements
 - This project was developed as part of an Development in android environment 1 coursework.
