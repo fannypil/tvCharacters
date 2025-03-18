@@ -34,16 +34,16 @@ Users can search for characters by name or description.
 
 ## 📸 Screenshots
 ### Main Screen
-<img src="screenshots/main_screen.png" alt="Example Image" style="width: 220px;"> <img src="screenshots/main_screen2.png" alt="Example Image" style="width: 220px;">
+<img src="screenshots/main_screen.png" alt="Example Image" style="width: 200px;"> <img src="screenshots/main_screen2.png" alt="Example Image" style="width: 200px;">
 
 ### Character Details
-<img src="screenshots/character_details.png" alt="Example Image" style="width: 220px;">
+<img src="screenshots/character_details.png" alt="Example Image" style="width: 200px;">
 
 ### Search Functionality
-<img src="screenshots/search_functionality.png" alt="Example Image" style="width: 220px;">
+<img src="screenshots/search_functionality.png" alt="Example Image" style="width: 200px;">
 
 ### Video Demo
-<video width="240px" controls>
+<video width="200px" controls>
   <source src="screenshots/demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
