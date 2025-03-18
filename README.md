@@ -42,11 +42,7 @@ Users can search for characters by name or description.
 ### Search Functionality
 <img src="screenshots/search_functionality.png" alt="Example Image" style="width: 200px;">
 
-### Video Demo
-<video width="200px" controls>
-  <source src="screenshots/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Acknowledgements
 - This project was developed as part of an Development in android environment 1 coursework.
+- [Material Design Components](https://material.io/develop/android/docs/getting-started)
+- [Android Developers](https://developer.android.com/docs)
