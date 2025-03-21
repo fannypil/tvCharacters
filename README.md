@@ -1,4 +1,4 @@
-# 📺 TV Characters
+# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/165273799/424170244-60ab221d-4785-403e-986b-0fe60045a695.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250318%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250318T200813Z&X-Amz-Expires=300&X-Amz-Signature=6bf15f3c6e5872ec8facbab6d5032c96082ea78f0157ad543cfe2b153e2b6225&X-Amz-SignedHeaders=host" alt="Example Image" style="width: 70px;"> TV Characters
 
 This project is an Android application that displays a list of my favorite TV show characters - Winx 💫.
 Users can search for characters by name or description.
@@ -42,11 +42,10 @@ Users can search for characters by name or description.
 ### Search Functionality
 <img src="screenshots/search_functionality.png" alt="Example Image" style="width: 200px;">
 
-### Video Demo
-<video width="200px" controls>
-  <source src="screenshots/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 📸 Demo
+https://github.com/user-attachments/assets/f9c3651e-bfb7-45e9-a82e-f03afef826c6
 
 ## Acknowledgements
 - This project was developed as part of an Development in android environment 1 coursework.
+- [Material Design Components](https://material.io/develop/android/docs/getting-started)
+- [Android Developers](https://developer.android.com/docs)
